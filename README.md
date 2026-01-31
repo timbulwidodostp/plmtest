@@ -1,6 +1,8 @@
 # plmtest
 Lagrange FF Multiplier Tests for Panel Models Use plmtest (plm) With (In) R Software
 
+https://www.youtube.com/watch?v=CUU24x6dHQE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
